@@ -4,7 +4,7 @@
   "description": "Locked core dependencies; require this project INSTEAD OF drupal/core.",
   "license": "GPL-2.0-or-later",
   "require": {
-    "mautic/core": "3.x-dev",
+    "mautic/core-lib": "3.x-dev",
     "symfony/console": "~3.4.0",
     "symfony/debug": "~3.4.0",
     "symfony/form": "~3.4.0",
@@ -118,8 +118,17 @@
       "url": "https://github.com/mautic/intl.git"
     },
     {
-      "type": "git",
-      "url": "https://github.com/mautic/core.git"
+      "type": "package",
+      "package": {
+        "name": "mautic/core-lib",
+        "version": "3.x-dev",
+        "type": "mautic-core",
+        "source": {
+          "url": "https://github.com/mautic/core.git",
+          "type": "git",
+          "reference": "3.x-dev"
+        }
+      }
     },
     {
       "type": "package",
