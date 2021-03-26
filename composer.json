@@ -120,19 +120,6 @@
     {
       "type": "package",
       "package": {
-        "name": "mautic/core-lib",
-        "version": "3.x-dev",
-        "type": "mautic-core",
-        "source": {
-          "url": "https://github.com/mautic/core.git",
-          "type": "git",
-          "reference": "3.x-dev"
-        }
-      }
-    },
-    {
-      "type": "package",
-      "package": {
         "name": "mautic/plugin-grapesjs-builder",
         "version": "1.0-RC4",
         "type": "mautic-plugin",
