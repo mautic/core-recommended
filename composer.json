@@ -118,6 +118,10 @@
       "url": "https://github.com/mautic/intl.git"
     },
     {
+      "type": "git",
+      "url": "https://github.com/mautic/core.git"
+    },
+    {
       "type": "package",
       "package": {
         "name": "mautic/plugin-grapesjs-builder",
