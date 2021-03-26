@@ -4,7 +4,7 @@
   "description": "Locked core dependencies; require this project INSTEAD OF drupal/core.",
   "license": "GPL-2.0-or-later",
   "require": {
-    "mautic/core": "3.x",
+    "mautic/core": "3.x-dev",
     "symfony/console": "~3.4.0",
     "symfony/debug": "~3.4.0",
     "symfony/form": "~3.4.0",
