@@ -8,7 +8,7 @@
     "ext-zlib": "*",
     "ext-zip": "*",
     "ext-imap": "*",
-    "mautic/core-liv": "features-dev",
+    "mautic/core-lib": "features-dev",
     "symfony/console": "~4.4.0",
     "symfony/debug": "~4.4.0",
     "symfony/form": "~4.4.0",
