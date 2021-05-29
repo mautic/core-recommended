@@ -42,7 +42,7 @@
     "mautic/theme-skyline": "features-dev",
     "mautic/theme-sparse": "features-dev",
     "mautic/theme-sunday": "features-dev",
-    "mautic/theme-vibrant": "features-dev"
+    "mautic/theme-vibrant": "features-dev",
     "symfony/console": "~4.4.0",
     "symfony/debug": "~4.4.0",
     "symfony/form": "~4.4.0",
