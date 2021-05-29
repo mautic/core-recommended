@@ -1,7 +1,7 @@
 {
   "name": "mautic/core-recommended",
   "type": "metapackage",
-  "description": "Locked core dependencies; require this project INSTEAD OF drupal/core.",
+  "description": "Locked core dependencies; require this project INSTEAD OF mautic/core-lib.",
   "license": "GPL-2.0-or-later",
   "require": {
     "php": ">=7.4.0 <8.1",
