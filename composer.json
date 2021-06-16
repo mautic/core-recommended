@@ -8,7 +8,7 @@
     "ext-zlib": "*",
     "ext-zip": "*",
     "ext-imap": "*",
-    "mautic/core-lib": "features-dev",
+    "mautic/core-lib": "dev-features as 4.0",
     "mautic/grapes-js-builder-bundle": "features-dev",
     "mautic/plugin-citrix": "features-dev",
     "mautic/plugin-clearbit": "features-dev",
@@ -132,10 +132,6 @@
     "predis/predis": "^1.1"
   },
   "repositories": [
-    {
-      "type": "git",
-      "url": "https://github.com/mautic/BazingaOAuthServerBundle.git"
-    },
     {
       "type": "git",
       "url": "https://github.com/dennisameling/FOSOAuthServerBundle.git"
